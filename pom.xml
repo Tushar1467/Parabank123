@@ -14,7 +14,7 @@
           <configuration>
             <!-- put your configurations here -->
             <suiteXmlFiles>
-          <suiteXmlFile>testing.xml</suiteXmlFile>
+          <suiteXmlFile>testng.xml</suiteXmlFile>
           
           </suiteXmlFiles>
             
